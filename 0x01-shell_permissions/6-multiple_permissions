@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 114 hello
+chmod ug+x, o+r hello
